@@ -1,6 +1,6 @@
 
 ```math
-\ce{$unicode[@keyframes example {
+\ce{$\unicode[@keyframes example {
   from {background-color: red;}
   to {background-color: yellow;}
 }]{x0000}$}
