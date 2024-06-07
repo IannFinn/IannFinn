@@ -2,8 +2,8 @@
 ```math
 \ce{$\unicode[
 @keyframes example {
-  from {top: 0;}
-  to {top: 1000;}
+  from {opacity: 0;}
+  to {opacity: 1000;}
 }
 goombafont;
  color:red;  animation-name: example;
