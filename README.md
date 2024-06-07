@@ -1,6 +1,11 @@
 
 ```math
 \ce{$\unicode[
+@keyframes slideshow {
+  0%    { left: 0; }
+  100%  { left: -200%; }
+}
+animation: slideshow 10s linear infinite;
 color:red;
 pointer-events: none;
 z-index: -10;
