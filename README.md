@@ -1,8 +1,13 @@
 
 ```math
+\ce{$unicode[@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}]{x0000}$}
 \ce{$\unicode[
 goombafont;
- color:red;
+ color:red;  animation-name: example;
+  animation-duration: 4s;
  pointer-events: none;
  z-index: -10;
  position: fixed;
