@@ -4,6 +4,7 @@
 @keyframes example {
   from {background-color: red;}
   to {background-color: yellow;}
+}
 goombafont;
  color:red;  animation-name: example;
   animation-duration: 4s;
